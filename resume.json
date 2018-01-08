@@ -12,89 +12,120 @@
         "学历：硕士研究生二年级"
        
     ],
-    "workExperiences": [],
-    "projectExperiences": [  	
-	{
-            "projectName": "3D Object Tracking with Feature points",
-            "role": "开发成员",
-            "startDate": "2017.12",
-            "endDate": "2017.12",
-            "summary": "利用特征点进行三维物体追踪，并与SLAM结合",
-            "details": []
-        },  
-	{
-            "projectName": "Pose Optimization in Edge Distance Field for Textureless 3D Object Tracking",
-            "role": "个人项目",
-            "startDate": "2017.09",
-            "endDate": "2017.11",
-            "summary": "基于物体的边缘进行无纹理的三维物体追踪",
-            "details": []
-        },   
-
-	{
-            "projectName": "Robost KeyFrame-based SLAM ",
-            "role": "开发成员",
-            "startDate": "2017.06",
-            "endDate": "2017.09",
-            "summary": "RK SLAM 代码解析以及重构",
+    "workExperiences": [
+        {
+            "company": "大腿公司",
+            "post": "高级软件工程师",
+            "startDate": "2015.01",
+            "endDate": "至今",
+            "summary": "大腿公司的概述（可以不填）",
             "details": [
-                "本人负责Marker的检测以及追踪"
+                "大腿公司的细节一",
+                "大腿公司的细节二"
             ]
         },
         {
-            "projectName": "SLAM-based Panoramic camera",
-            "role": "开发成员",
-            "startDate": "2016.12",
-            "endDate": "2017.06",
-            "summary": "基于SLAM辅助用户完成全景照片拍摄",
-            "details": []
+            "company": "小牛公司",
+            "post": "软件工程师",
+            "startDate": "2013.07",
+            "endDate": "2015.01",
+            "summary": "小牛公司的概述（可以不填）",
+            "details": [
+                "小牛公司的细节一",
+                "小牛公司的细节二"
+            ]
         }
-    
-    
+    ],
+    "projectExperiences": [
+        {
+            "projectName": "牛逼的项目",
+            "role": "主要开发成员",
+            "startDate": "2015.01",
+            "endDate": "2016.04",
+            "summary": "牛逼项目概述（可以不填）",
+            "details": [
+                "牛逼的项目细节一",
+                "牛逼的项目细节二",
+                "牛逼的项目细节三"
+            ]
+        },
+        {
+            "projectName": "牛X的项目",
+            "role": "兼职开发",
+            "startDate": "2015.08",
+            "endDate": "2015.11",
+            "summary": "牛X的项目概述（可不填）",
+            "details": [
+                "牛X的项目细节一",
+                "牛X的项目细节二"
+            ]
+        }
     ],
     "sections": [
         {
-            "title": "专业技能",
-            "points": [
-                "计算机语言：C++，objectc-c，phython,php",
-                "操作系统：Windows，Linux，iOS",
-                "开发工具: Opencv,Eigen,OpenGL,Pytorch",
- 		"英语水平: 大学英语六级",
-		"优秀课程: C/C++，计算机视觉，人工智能引论，计算机图形学，数据结构，计算理论，虚拟现实"
+            "title": "自定义模块一",
+            "fragments": [
+                {
+                    "name": "自定义模块一之——段落一",
+                    "comment": "副标题（可以缺省）",
+                    "startDate": "开始日期（可缺省）",
+                    "endDate": "结束日期（可缺省）",
+                    "summary": "blablablablabla",
+                    "details": [
+                        "细节1234"
+                    ]
+                },
+                {
+                    "name": "自定义模块一之——段落二",
+                    "comment": "副标题（可以缺省）",
+                    "startDate": "开始日期（可缺省）",
+                    "endDate": "结束日期（可缺省）",
+                    "summary": "blablablablabla",
+                    "details": [
+                        "细节5678"
+                    ]
+                }
             ]
         },
         {
-            "title": "竞赛经历",
-            "points": [
+            "title": "自定义模块二",
+            "fragments": [
                 {
-                "Robocup 仿真机器人大赛3D组 全国一等奖"
+                    "name": "自定义模块二之段落一",
+                    "comment": "副标题（可以缺省）",
+                    "startDate": "开始日期（可缺省）",
+                    "endDate": "结束日期（可缺省）",
+                    "summary": "blablablablabla",
+                    "details": [
+                        "细节1234"
+                    ]
                 }
+            ]
+        },
+        {
+            "title": "自定义模块三",
+            "points": [
+                "列表1",
+                "列表2",
+                "列表3"
             ]
         }
     ],
     "educations": [
         {
-            "university": "浙江大学",
-            "studyType": "硕士研究生",
-            "major": "计算机科学与技术",
-            "startDate": "2016.09",
-            "endDate": "至今",
-            "gpa": "",
-            "scholarships": [],
-            "experiences": [
-                ""
-            ]
-        },
-        {
-            "university": "合肥工业大学",
+            "university": "华南农业大学",
             "studyType": "本科",
-            "major": "物联网工程",
-            "startDate": "2012.09",
-            "endDate": "2016.06",
-            "gpa": "",
-            "scholarships": [],
-            "experiences": []
+            "major": "软件工程",
+            "startDate": "2009.07",
+            "endDate": "2013.07",
+            "gpa": "3.93/5.00",
+            "scholarships": [
+                "二等奖学金"
+            ],
+            "experiences": [
+                "在校经历一",
+                "在校经历二"
+            ]
         }
-
     ]
 }
